@@ -21,7 +21,10 @@ Testing various LLMs and their ability to extract programming related skill from
 Start by getting links to download llama models following the instructions on this webopage:
 https://www.llama.com/llama-downloads/?utm_source=llama-home-hero&utm_medium=llama-referral&utm_campaign=llama-utm&utm_offering=llama-downloads&utm_product=llama
 
-put the relevant custom url IDs into the available .env file
+make an environment file called `llama_links.env` and put in the relevant custom url IDs as follows:
+llama3_0_id_url="https://download6.llamameta.net/*?..."
+llama3_1_id_url="https://llama3-1.llamameta.net/*?..."
+llama3_2_id_url="https://llama3-2-lightweight.llamameta.net/*?..."
 
 run `python dl_llama_models.py`
 

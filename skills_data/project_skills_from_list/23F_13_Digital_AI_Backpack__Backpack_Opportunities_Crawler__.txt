@@ -1,0 +1,66 @@
+### Human: given the following project description, and the following list of programming skills,choose skills, from the list of skills below, that a team of developers must possess to complete the project describedplease format your answers as a numbered list
+List of skills to choose from: Python
+Pytorch/Tensorflow/Keras
+OpenCV / SimpleCV
+Numpy
+Pandas
+Tkinter
+C/C++
+C#
+Java
+Machine Learning
+Object Detection
+Classification / Image Classification
+Regression Analysis
+Large Language Models
+Reinforcement Learning
+Generative AI
+App Dev (React Native, Swift, Flutter, Ionic)
+Web Dev
+Front end
+Frameworks (React, Bootstrap, Angular, Ionic, Vue)
+HTML/CSS
+Back end
+Frameworks (ExpressJS/NodeJS, Flask, ASP .NET, Django, Spring Boot, Ruby on Rails)
+API’s
+Javascript
+MERN
+Cloud platforms (Google Cloud, Azure, AWS)
+Data management
+SQL based (SQL, SQLite, PostgreSQL, etc)
+NoSQL (MongoDB, DynamoDB, Firebase, etc.)
+Game Engine / XR (AR, VR, MR) 
+Unity
+Unreal
+GIS (Google Map API)
+Microcontrollers (Raspberry Pi/Arduino)
+Algorithms and data structures
+Networking
+Computer and network security
+Systems programming (OS, utility programs, device drivers)
+Version control (git / GitHub)
+Project Description: Extract and store inside a structured database a set of opportunities for students (i.e., internships, jobs, gigs, 
+scholarships, grants), including important metadata such as name, description, URL for applying, application deadline 
+or deadlines, and impor tant dates. The algorithm should also create meta tags relevant to the opportunity, which can 
+be later used by a recommender algorithm matching opportunities to specific students.  
+This project is recommended for a student and/or group of students interested in Artificial Intelligence (AI) fields 
+such as Text Recognition, OCR, LLMs (e.g., ChatGPT).  
+
+### Assistant: Based on the project description and the list of skills provided, which skills are essential or highly desirable for a team of developers to possess to complete this project? Please rank them in order of importance.
+
+1. Machine Learning (ML) - Highly Desirable
+2. Natural Language Processing (NLP) - Highly Desirable
+3. Python - Essential
+4. Data Management - Essential
+5. Web Development - Essential
+6. Frameworks (React, Angular, Vue) - Desirable
+7. APIs - Essential
+8. Microcontrollers (Raspberry Pi/Arduino) - Desirable
+9. Algorithms and Data Structures - Essential
+10. Networking - Desirable
+11. Computer and Network Security - Desirable
+12. Systems Programming (OS, Utility Programs, Device Drivers) - Desirable
+13. Version Control (Git/GitHub) - Essential
+14. Project Management - Desirable
+
+Note: The ranking of skills is based on the requirements of the project and the complexity of the tasks involved.

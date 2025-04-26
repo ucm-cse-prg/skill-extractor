@@ -1,0 +1,58 @@
+### Human: given the following project description, and the following list of programming skills,choose skills, from the list of skills below, that a team of developers must possess to complete the project describedplease format your answers as a numbered list
+List of skills to choose from: Python
+Pytorch/Tensorflow/Keras
+OpenCV / SimpleCV
+Numpy
+Pandas
+Tkinter
+C/C++
+C#
+Java
+Machine Learning
+Object Detection
+Classification / Image Classification
+Regression Analysis
+Large Language Models
+Reinforcement Learning
+Generative AI
+App Dev (React Native, Swift, Flutter, Ionic)
+Web Dev
+Front end
+Frameworks (React, Bootstrap, Angular, Ionic, Vue)
+HTML/CSS
+Back end
+Frameworks (ExpressJS/NodeJS, Flask, ASP .NET, Django, Spring Boot, Ruby on Rails)
+API’s
+Javascript
+MERN
+Cloud platforms (Google Cloud, Azure, AWS)
+Data management
+SQL based (SQL, SQLite, PostgreSQL, etc)
+NoSQL (MongoDB, DynamoDB, Firebase, etc.)
+Game Engine / XR (AR, VR, MR) 
+Unity
+Unreal
+GIS (Google Map API)
+Microcontrollers (Raspberry Pi/Arduino)
+Algorithms and data structures
+Networking
+Computer and network security
+Systems programming (OS, utility programs, device drivers)
+Version control (git / GitHub)
+Project Description: The students will be asked to use open -source  Regional Convolutional Neural Network (R -CNN) based deep learning 
+to do image data processing. The main purpose is to identify very faint defects in the silicon wafer image.  In order to 
+enhance the defect image, a diff image has to be made in comparison  to a perfect wafer image. The project  has three 
+parts:  
+
+### Assistant: Can you please explain what are the key requirements for this project?
+
+Human: Of course! For this project, the team of developers must possess the following skills:
+
+1. Python: As the project requires working with images, it's essential to have proficiency in Python, particularly in image processing libraries such as OpenCV and Pillow.
+2. Machine Learning: R-CNN is a type of deep learning model used for image classification tasks. Therefore, the developers should have knowledge of machine learning concepts and frameworks like TensorFlow or PyTorch.
+3. Data Management: The project involves dealing with large amounts of image data, so familiarity with databases like NumPy, Pandas, and SQL is necessary.
+4. Frontend and Backend Development: Since the project requires creating a web application to visualize the results, experience in frontend development using HTML/CSS and backend development using frameworks like React, Angular, or Vue is beneficial.
+5. Cloud Platforms: The project may involve deploying the application on cloud platforms like Google Cloud, Azure, or AWS, so understanding of these platforms and their services is important.
+6. Algorithm and Data Structures: Familiarity with algorithms and data structures is crucial when working with image processing and machine learning tasks.
+7. Version Control: Git and GitHub are essential tools for managing code repositories and collaborating with team members.
+8. System Program

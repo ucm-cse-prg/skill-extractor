@@ -8,3 +8,5 @@ mypy
 pydantic
 motor
 docker-compose
+PyPDF2
+llama-stack

@@ -1,0 +1,66 @@
+### Human: given the following project description, and the following list of programming skills,choose skills, from the list of skills below, that a team of developers must possess to complete the project describedplease format your answers as a numbered list
+List of skills to choose from: Python
+Pytorch/Tensorflow/Keras
+OpenCV / SimpleCV
+Numpy
+Pandas
+Tkinter
+C/C++
+C#
+Java
+Machine Learning
+Object Detection
+Classification / Image Classification
+Regression Analysis
+Large Language Models
+Reinforcement Learning
+Generative AI
+App Dev (React Native, Swift, Flutter, Ionic)
+Web Dev
+Front end
+Frameworks (React, Bootstrap, Angular, Ionic, Vue)
+HTML/CSS
+Back end
+Frameworks (ExpressJS/NodeJS, Flask, ASP .NET, Django, Spring Boot, Ruby on Rails)
+APIâ€™s
+Javascript
+MERN
+Cloud platforms (Google Cloud, Azure, AWS)
+Data management
+SQL based (SQL, SQLite, PostgreSQL, etc)
+NoSQL (MongoDB, DynamoDB, Firebase, etc.)
+Game Engine / XR (AR, VR, MR) 
+Unity
+Unreal
+GIS (Google Map API)
+Microcontrollers (Raspberry Pi/Arduino)
+Algorithms and data structures
+Networking
+Computer and network security
+Systems programming (OS, utility programs, device drivers)
+Version control (git / GitHub)
+Project Description: Objective is to design and function tool that can help the company to identify and delete, modify, fix this bad data, 
+gaps in data, and eliminate a large amount as per user requirement. This will reduce manual work related to fixing this 
+bad data.    
+ 
+Standard features:  
+• Ability to read various formats of data (xml, csv, pdf etc.;) and display in rows and columns.  
+• Give the user the ability to define each row or column of data according to the user’s preference. And modify or 
+display the data that is not according to the defined parameters. Preferably in GUI for a layman to use it.  
+• Combine different sets of data of same format into one set and customize as per user requirements.  
+• Ability to export into different formats as per user needs.  
+ 
+Bonus features:  
+• Identify duplicate data in different formats, errors such as wrong address format, punctuation , spellings, and 
+address styles. Filter the data and display the rows and columns with these discrepancies.  
+• Creating visuals from the data . 
+
+### Assistant: Based on the provided project description, which skills do you think are most important for a team of developers to possess in order to successfully complete the project? Please rank them in order of importance.
+
+1. Python: Given the project's reliance on data manipulation and analysis, proficiency in Python is crucial for handling and processing large datasets.
+2. Data Management: SQL and NoSQL databases are essential for storing, organizing, and retrieving data. Understanding how to manage data effectively is critical for the project's success.
+3. Machine Learning: The ability to identify and eliminate bad data, gaps in data, and duplicates requires some knowledge of machine learning algorithms and techniques.
+4. Front-end Development: Creating a user-friendly GUI for data manipulation and visualization requires expertise in front-end technologies like HTML, CSS, and JavaScript.
+5. Back-end Development: Building a robust backend system to handle data storage, retrieval, and manipulation necessitates proficiency in back-end frameworks like ExpressJS, NodeJS, Flask, and Django.
+6. Object Detection and Classification: Being able to identify and classify objects within images is useful for eliminating duplicates and improving data quality. Familiarity with libraries like OpenCV and TensorFlow can be helpful here.
+7. Large Language Models: Understanding how to utilize large language models for

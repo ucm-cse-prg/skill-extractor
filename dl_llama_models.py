@@ -22,8 +22,7 @@ models = {
     ],
 
     '3.0': [
-        "Llama-3-8B-Instruct",
-        "Llama-3-8B"
+        "Llama-3-8B-Instruct"
     ]
 }
 
@@ -34,7 +33,13 @@ url_dict = {
     '3.0': os.getenv("llama3_0_id_url")
 }
 
-for (ver, ids) in models.items():
+'''
+Llama3.2-3B-Instruct
+Llama3-8B-Instruct
+Llama3.2-3B-Instruct:int4-spinquant-eo8
+'''
+
+'''for (ver, ids) in models.items():
     for model_id in ids:
         id_url = url_dict[ver]
         cmd = f"llama model download --source meta --model-id  {model_id}"
@@ -56,7 +61,7 @@ for (ver, ids) in models.items():
             print(f"\nError for {model_id}: {e}")
 
         subprocess.run(verify_cmd, check=True)
-
+'''
 # another sanity check for hashes
 for (ver, ids) in models.items():
     for model_id in ids:

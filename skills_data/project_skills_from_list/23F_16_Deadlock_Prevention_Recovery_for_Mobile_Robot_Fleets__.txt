@@ -1,0 +1,53 @@
+### Human: given the following project description, and the following list of programming skills,choose skills, from the list of skills below, that a team of developers must possess to complete the project describedplease format your answers as a numbered list
+List of skills to choose from: Python
+Pytorch/Tensorflow/Keras
+OpenCV / SimpleCV
+Numpy
+Pandas
+Tkinter
+C/C++
+C#
+Java
+Machine Learning
+Object Detection
+Classification / Image Classification
+Regression Analysis
+Large Language Models
+Reinforcement Learning
+Generative AI
+App Dev (React Native, Swift, Flutter, Ionic)
+Web Dev
+Front end
+Frameworks (React, Bootstrap, Angular, Ionic, Vue)
+HTML/CSS
+Back end
+Frameworks (ExpressJS/NodeJS, Flask, ASP .NET, Django, Spring Boot, Ruby on Rails)
+APIâ€™s
+Javascript
+MERN
+Cloud platforms (Google Cloud, Azure, AWS)
+Data management
+SQL based (SQL, SQLite, PostgreSQL, etc)
+NoSQL (MongoDB, DynamoDB, Firebase, etc.)
+Game Engine / XR (AR, VR, MR) 
+Unity
+Unreal
+GIS (Google Map API)
+Microcontrollers (Raspberry Pi/Arduino)
+Algorithms and data structures
+Networking
+Computer and network security
+Systems programming (OS, utility programs, device drivers)
+Version control (git / GitHub)
+Project Description: Omron team has already developed some algorithms to recover the robots out of a deadlock. But they don’t work for 
+all the scenarios. Deadlock prevention is even a tougher problem and there’s no solution for it yet.  
+Machine Learning/Reinforcement learning is one option that Omron team is considering to recover the robots 
+out of deadlocks.  
+
+### Assistant: Based on the provided information, here are the top 5 skills that a team of developers should possess to complete the project successfully:
+
+1. **Machine Learning**: Given the project's focus on developing algorithms to prevent deadlocks using machine learning, a strong understanding of this field is essential. The team should have experience in implementing machine learning models, such as reinforcement learning, to solve complex problems like deadlock prevention.
+2. **Python**: Python is a popular language used in machine learning and data science, making it an essential skill for the team. They should be proficient in writing clean, efficient, and well-structured code in Python to develop and train machine learning models.
+3. **OpenCV/SimpleCV**: OpenCV is a computer vision library that can be used to analyze images and detect objects. SimpleCV is another image processing library that can be used for similar tasks. Both libraries are important for developing algorithms that can identify objects and prevent deadlocks.
+4. **C/C++**: C and C++ are low-level programming languages that are commonly used for developing operating systems, device drivers, and other low-level system software. Knowledge of these languages can help the team understand how the robot's hardware works and develop more efficient algorithms for preventing deadlocks.
+5. **Data Management**: Effective data management is crucial when working with large datasets, which is

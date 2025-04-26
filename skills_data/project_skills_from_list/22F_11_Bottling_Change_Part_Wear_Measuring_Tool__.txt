@@ -1,0 +1,50 @@
+### Human: given the following project description, and the following list of programming skills,choose skills, from the list of skills below, that a team of developers must possess to complete the project describedplease format your answers as a numbered list
+List of skills to choose from: Python
+Pytorch/Tensorflow/Keras
+OpenCV / SimpleCV
+Numpy
+Pandas
+Tkinter
+C/C++
+C#
+Java
+Machine Learning
+Object Detection
+Classification / Image Classification
+Regression Analysis
+Large Language Models
+Reinforcement Learning
+Generative AI
+App Dev (React Native, Swift, Flutter, Ionic)
+Web Dev
+Front end
+Frameworks (React, Bootstrap, Angular, Ionic, Vue)
+HTML/CSS
+Back end
+Frameworks (ExpressJS/NodeJS, Flask, ASP .NET, Django, Spring Boot, Ruby on Rails)
+API’s
+Javascript
+MERN
+Cloud platforms (Google Cloud, Azure, AWS)
+Data management
+SQL based (SQL, SQLite, PostgreSQL, etc)
+NoSQL (MongoDB, DynamoDB, Firebase, etc.)
+Game Engine / XR (AR, VR, MR) 
+Unity
+Unreal
+GIS (Google Map API)
+Microcontrollers (Raspberry Pi/Arduino)
+Algorithms and data structures
+Networking
+Computer and network security
+Systems programming (OS, utility programs, device drivers)
+Version control (git / GitHub)
+Project Description: Design a tool that can be used to measure the pocket size in a variety of change parts. The goal is to have a tool that is 
+operational with one hand, provid es repeatable measurements independent of the person using the tool, and measures 
+down to 10 thousandth of an inch. Tool should be designed for 750ml and 1.5L bottles.  
+
+### Assistant: Based on the provided project description and skill set, here are the top 3 skills that a team of developers must possess to complete this project:
+
+1. **Python**: Given the need to develop a tool that can provide repeatable measurements with high accuracy, Python is an essential language to use. Python has a wide range of libraries, including NumPy and SciPy, which offer functions for mathematical and scientific computing. These libraries can help with tasks such as data analysis, statistical modeling, and data visualization, all of which are crucial for developing a tool that provides precise measurements. Additionally, Python's large community and extensive documentation make it easier for developers to find resources and libraries to support their work.
+2. **OpenCV**: OpenCV is a computer vision library that offers a wide range of tools for image processing, feature detection, and object recognition. In this project, OpenCV can be used to develop a tool that can accurately measure the pocket size of various change parts. For example, OpenCV can be used to detect the edges of the change part using image processing techniques, and then measure those edges to determine the pocket size. By leveraging OpenCV, developers can create a tool that can automatically detect and measure the pocket size of different change parts, reducing the need for manual measurement and increasing accuracy.
+3. **Microcontrollers (Raspberry Pi/Arduino)**: To create a tool that can be operated with
