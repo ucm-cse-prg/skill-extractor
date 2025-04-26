@@ -13,3 +13,6 @@ wheels/
 .vscode/settings.json
 .coverage
 coverage.lcov
+
+# environment variable files
+llama_links.env

@@ -16,16 +16,16 @@ This repository provides a template for creating a FastAPI application with Mong
 
 ## Project Overview
 
-This template project demonstrates:
+Testing various LLMs and their ability to extract programming related skill from project descriptions
 
-- Asynchronous programming with FastAPI.
-- Integration with MongoDB using the Beanie ODM.
-- Basic CRUD operations through generic API endpoints.
-- A command-line interface (via Typer) for application management.
-- Containerization using Docker.
-- Testing with pytest and static analysis with Ruff.
+Start by getting links to download llama models following the instructions on this webopage:
+https://www.llama.com/llama-downloads/?utm_source=llama-home-hero&utm_medium=llama-referral&utm_campaign=llama-utm&utm_offering=llama-downloads&utm_product=llama
 
-These features serve as a starting point for building and scaling your own web applications.
+put the relevant custom url IDs into the available .env file
+
+run `python dl_llama_models.py`
+
+eventually more stuff
 
 ## Project Structure
 
