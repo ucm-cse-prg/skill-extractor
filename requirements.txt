@@ -1,12 +1,3 @@
-FastAPI
-beanie[odm]
-typer
-uvicorn
-pytest
-pytest-asyncio
-mypy
-pydantic
-motor
-docker-compose
 PyPDF2
-llama-stack
+pandas
+llama-cpp-python

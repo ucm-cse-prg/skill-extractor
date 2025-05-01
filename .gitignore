@@ -14,5 +14,5 @@ wheels/
 .coverage
 coverage.lcov
 
-# environment variable files
-llama_links.env
+# llama models
+models/*
