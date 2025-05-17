@@ -1,4 +1,4 @@
-import os
+import os, sys
 
 from utils.parse_pdf import parse_pdf, extract_descriptions
 from utils.llm import query_llm, load_llama
@@ -21,12 +21,13 @@ def main():
         project_descriptions_dict = extract_descriptions(parsed_pdf_text, semester, out_json_fp=out_desc_fp)         
 
         # start local server for llama inference
-        llm = load_llama()
-        os.makedirs(cfg.SKILLS_DIR, exist_ok=True)
-        for proj_title, proj_desc in project_descriptions_dict.items():
-            print(f"Inferring on: {proj_title}")
-            query_llm(proj_title, proj_desc, llm)
+        llm = load_llama(n_ctx=8192, n_gpu_layers=-1, n_threads=None)
 
+        model_name = os.path.splitext(cfg.MODEL_FN)[0]
+        os.makedirs(cfg.OUT_DIR / model_name, exist_ok=True)
+        for proj_title, proj_desc in project_descriptions_dict.items():
+            print(f"\n\n***** Inferring on: {proj_title} *****\n")
+            query_llm(proj_title, proj_desc, llm)
 
 if __name__ == '__main__':
     main()

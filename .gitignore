@@ -16,3 +16,6 @@ coverage.lcov
 
 # llama models
 models/*
+
+# llm skill selection outputs
+output/*

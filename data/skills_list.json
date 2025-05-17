@@ -1,0 +1,50 @@
+{
+    "Python": {
+        "Pytorch/Tensorflow/Keras": 0,
+        "OpenCV / SimpleCV": 0,
+        "Numpy": 0,
+        "Pandas": 0,
+        "Tkinter": 0
+    },
+    "C/C++": 0,
+    "C#": 0,
+    "Java": 0,
+    "Machine Learning": {
+        "Object Detection": 0,
+        "Classification / Image Classification": 0,
+        "Regression Analysis": 0,
+        "Large Language Models": 0,
+        "Reinforcement Learning": 0,
+        "Generative AI": 0
+    },
+    "App Dev (e.g. React Native, Swift, Flutter, Ionic)": 0,
+    "Web Dev": {
+        "Front end": {
+            "Frameworks (e.g. React, Bootstrap, Angular, Ionic, Vue)": 0,
+            "HTML/CSS": 0
+        },
+        "Back end": {
+            "Frameworks (e.g. ExpressJS/NodeJS, Flask, ASP .NET, Django, Spring Boot, Ruby on Rails)": 0,
+            "APIs": 0
+        },
+        "Javascript": 0,
+        "MERN": 0
+    },
+    "Cloud platforms (e.g. Google Cloud, Azure, AWS)": 0,
+    "Data management": {
+        "SQL based (e.g. SQL, SQLite, PostgreSQL, etc)": 0,
+        "NoSQL (e.g. MongoDB, DynamoDB, Firebase, etc.)": 0
+    },
+    "Game Engine / XR (AR, VR, MR)": {
+        "Unity": 0,
+        "Unreal": 0
+    },
+    "GIS (e.g. Google Map API)": 0,
+    "Microcontrollers (e.g. Raspberry Pi/Arduino)": 0,
+    "Algorithms and data structures": 0,
+    "Networking": 0,
+    "Computer and network security": 0,
+    "Systems programming (e.g. OS, utility programs, device drivers)": 0,
+    "Robotics (ROS)": 0,
+    "Version control (e.g. git / GitHub)": 0
+}

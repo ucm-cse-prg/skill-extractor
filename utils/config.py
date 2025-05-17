@@ -12,6 +12,6 @@ class Config:
     CTX_FN: str = "sys_msg.txt"                             # name of context file for llm
     BASE_DATA_DIR: Path = Path(os.getcwd(), "data/")        # where all relevant data is stored
     DESC_DIR: Path = BASE_DATA_DIR / "project_descriptions" # path to text files w/ proj descriptions
-    SKILLS_DIR: Path = BASE_DATA_DIR / "skill_selections"   # path to output llm skill choices
+    OUT_DIR: Path = Path(os.getcwd(), "output/")            # path to output llm skill choices
 
 cfg = Config()
